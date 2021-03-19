@@ -1,0 +1,16 @@
+.usermenu:focus-within, div.dropdown-item:focus-within {
+  box-shadow: none;
+}
+#page-my-index {
+  background-color: #f9fafc;
+}
+#ccnSettingsMenu .dropdown-item:active,
+#ccnSettingsMenu .dropdown-item:hover,
+#ccnSettingsMenu .dropdown-item:focus,
+#ccnSettingsMenu .dropdown-item:focus-within {
+  background: [[setting:color_primary]];
+  color: #fff;
+}
+#ccnSettingsMenu .dropdown-item:hover a {
+  color: #fff;
+}

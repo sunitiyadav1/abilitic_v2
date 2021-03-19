@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="30" moduleid="1317" modulename="resource" contextid="1386">
+  <resource id="30">
+    <name>Sample Poster for A Very Simple Egg-Drop Project</name>
+    <intro>&lt;p&gt;This poster was designed at the end of an Applied English for Science and Technology course at Clausthal University of Technology, Germany. Note that the task here is quite different - it is &lt;em&gt;not&lt;/em&gt; a requirement that the "vehicle" should have a mechanism.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:3:{s:10:"printintro";i:1;s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1483570142</timemodified>
+  </resource>
+</activity>

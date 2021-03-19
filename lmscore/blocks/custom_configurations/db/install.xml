@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="blocks/custom_configurations/db" VERSION="20140120" COMMENT="XMLDB file for Moodle blocks/custom_configurations"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="block_cc_test" COMMENT="Recent activity block">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="rank" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="User rank"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="User id"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false" COMMENT="User full name"/>
+        <FIELD NAME="department" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false" COMMENT="User Department"/>
+        <FIELD NAME="points" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="User points"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="false" SEQUENCE="false"/>
+        <FIELD NAME="timeupdated" TYPE="int" LENGTH="10" NOTNULL="false" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="usertime" UNIQUE="false" FIELDS="userid, timecreated"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

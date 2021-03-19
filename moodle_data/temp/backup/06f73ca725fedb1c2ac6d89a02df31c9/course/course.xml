@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="14" contextid="1343">
+  <shortname>Applied English</shortname>
+  <fullname>Applied English for Science and Technology</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;&lt;span&gt;This course is designed to improve students' conversation skills in a scientific- or engineering-oriented setting. Grammar, writing styles and speaking skills specific to students' scientific and engineering areas of interest will be the focus of this course and will be accomplished through discussions of various authentic technical-based texts.&lt;/span&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1483311600</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en</lang>
+  <theme></theme>
+  <timecreated>1483295789</timecreated>
+  <timemodified>1504731838</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>12</numsections>
+  <hiddensections>1</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <category id="7">
+    <name>Akademik</name>
+    <description></description>
+  </category>
+  <tags>
+    <tag id="6">
+      <name>elt</name>
+      <rawname>ELT</rawname>
+    </tag>
+    <tag id="7">
+      <name>efl</name>
+      <rawname>EFL</rawname>
+    </tag>
+    <tag id="8">
+      <name>english</name>
+      <rawname>English</rawname>
+    </tag>
+    <tag id="9">
+      <name>science</name>
+      <rawname>science</rawname>
+    </tag>
+    <tag id="10">
+      <name>technology</name>
+      <rawname>technology</rawname>
+    </tag>
+  </tags>
+</course>

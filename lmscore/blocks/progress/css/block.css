@@ -1,0 +1,98 @@
+/* Float four columns side by side */
+
+.block_progress .column {
+    float: left;
+    /* width: 50%;*/
+    padding: 0 10px;
+}
+
+.block_progress .fixcolumn {
+    float: left;
+    width: 50%;
+    padding: 0 10px;
+}
+
+.block_progress .fullcolumn {
+    float: left;
+    width: 100%;
+    padding: 0 10px;
+}
+
+
+/* Remove extra left and right margins, due to padding */
+
+.block_progress .row {
+    margin: 0 -5px;
+}
+
+
+/* Clear floats after the columns */
+
+.block_progress .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* Responsive columns */
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+
+
+/* Style the counter cards */
+
+.block_progress.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+.block_progress .fullcard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    width: 100%;
+    text-align: left;
+    background-color: #f1f1f1;
+}
+
+.block_progress h1,
+.block_progress p {
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+.block_progress p {
+    font-size: 10px;
+    color: #666666;
+}
+
+.block_progress #posters {
+    width: 890;
+    margin: auto;
+    display: block;
+}
+
+.block_progress #arrow_left {
+    float: left;
+}
+
+.block_progress #arrow_right {
+    float: right;
+}
+<<<<<<< HEAD
+#progress_details .chartTitle p,#team_progress_details .chartTitle p{
+=======
+.block_progress #progress_details .chartTitle p,#team_progress_details .chartTitle p{
+>>>>>>> b14c1ad111017bad257b47c079dcfc1e6251a5a2
+    word-wrap: break-word; 
+    width: 100px;
+}

@@ -1,0 +1,109 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_progress/mobile_block_viewprogress
+
+    Mobile view for the progress block.
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * none
+
+    Example context (json):
+    {
+    }
+}}
+{{=<% %>=}}
+<ion-item-divider>
+    <h2>{{ 'plugin.block_progress.pluginname' | translate }}</h2>
+</ion-item-divider>
+<ion-card>
+    <ion-card-content>
+        
+        <core-chart type="pie" [data]="[<%myprogress.completionPercentage%>, <%myprogress.nonCompletionPercentage%>]" [labels]="['<%#str%> completed, block_progress <%/str%>', '<%#str%> notcompleted, block_progress <%/str%>']" height="100" tooltip="My Progress"></core-chart>
+        <div >
+        <table class="table" width="100%">
+            <tr>
+                <td>Total Courses Enrolled</td>
+                <td id= "myprogress-totalcourses"><%myprogress.totalCourses%></td>
+                <td>Total Courses Completed</td>
+                <td id="myprogress-completedcourses"><%myprogress.completedCourses%></td>
+            </tr>
+            <tr>
+                <td>Total Activities</td>
+                <td id="myprogress-total-activities"><%myprogress.totalModules%></td>
+                <td>Total Activities Completed</td>
+                <td id="myprogress-completed-activities"><%myprogress.completedModules%></td>
+            </tr>
+        </table>    
+        <p align="right"> 
+     <!--   <a onclick="window.location='/blocks/progress/test.php';">View More</a> -->
+        <button ion-button core-site-plugins-new-content  confirmMessage title="{{ 'plugin.block_progress.my_progress' | translate }}" component="block_progress" 
+        method="mobile_block_myprogress_view" [args]="{userid: <%userid%>}">
+    {{ 'plugin.block_progress.view_more' | translate }}
+</button>
+</p>
+        
+              
+        </div>
+    </ion-card-content>
+</ion-card>
+<%^siteadmin%>
+<ion-item-divider>
+    <h2>Team Progress</h2>
+</ion-item-divider>
+<ion-card>
+    <ion-card-content>
+        <core-chart type="pie" [data]="[<%teamprogress.completionPercentage%>, <%teamprogress.nonCompletionPercentage%>]" [labels]="['<%#str%> completed, block_progress <%/str%>', '<%#str%> notcompleted, block_progress <%/str%>']" height="100"></core-chart>
+        <div >
+       
+        <table class="table" width="100%">
+            <tr>
+                <td>Total Courses Enrolled</td>
+                <td id= "teamprogress-totalcourses"><%teamprogress.totalCourses%></td>
+                <td>Total Courses Completed</td>
+                <td id="teamprogress-completedcourses"><%teamprogress.completedCourses%></td>
+            </tr>
+            <tr>
+                <td>Total Activities</td>
+                <td id="teamprogress-total-activities"><%teamprogress.totalModules%></td>
+                <td>Total Activities Completed</td>
+                <td id="teamprogress-completed-activities"><%teamprogress.completedModules%></td>
+            </tr>
+        </table>   
+         <p align="right"> 
+     <!--   <a onclick="window.location='/blocks/progress/test.php';">View More</a> -->
+        <button ion-button core-site-plugins-new-content  confirmMessage title="{{ 'plugin.block_progress.team_progress' | translate }}" component="block_progress" 
+        method="mobile_block_teamprogress_view" [args]="{userid: <%userid%>}">
+    {{ 'plugin.block_progress.view_more' | translate }}
+</button>
+</p>
+        </div>
+       
+    </ion-card-content>
+</ion-card>
+<%/siteadmin%>
+    <script>
+        $(document).ready(function() {
+            alert('herere);
+        });
+    </script>

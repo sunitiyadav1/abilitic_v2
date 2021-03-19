@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="393" moduleid="1287" modulename="quiz" contextid="1356">
+  <quiz id="393">
+    <name>Exercise 5 – Punctuation: Commas</name>
+    <intro>&lt;p&gt;Adapted from http://writing.eng.vt.edu/exercises/&lt;/p&gt;
+&lt;div&gt;
+&lt;h4&gt;In the following sentences, choose the places where the comma is undesired, is missing, or should be changed to another piece of punctuation. Note that each sentence has &lt;span style="color: #ff0000;"&gt;&lt;b&gt;&lt;i&gt;at most&lt;/i&gt;&lt;/b&gt;&lt;/span&gt; one punctuation error. If no error exists, choose "No error." &lt;/h4&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>900</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>1</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>4368</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>4368</reviewspecificfeedback>
+    <reviewgeneralfeedback>4368</reviewgeneralfeedback>
+    <reviewrightanswer>4368</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>11.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1483649436</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <question_instances>
+      <question_instance id="3549">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4885</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3550">
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4883</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3551">
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4879</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3552">
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4882</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3553">
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4881</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3554">
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4886</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3555">
+        <slot>7</slot>
+        <page>7</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4884</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3556">
+        <slot>8</slot>
+        <page>8</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4888</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3557">
+        <slot>9</slot>
+        <page>9</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4878</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3558">
+        <slot>10</slot>
+        <page>10</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4887</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+      <question_instance id="3559">
+        <slot>11</slot>
+        <page>11</page>
+        <requireprevious>0</requireprevious>
+        <questionid>4880</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="413">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="473">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

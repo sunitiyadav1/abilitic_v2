@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="13" moduleid="1312" modulename="page" contextid="1381">
+  <page id="13">
+    <name>Invitation</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;The toy which you designed and which you have been working on is almost complete. Soon, it will be sent to the production line for serial production. However, before that, you need to provide the Marketing Department of the company  with very detailed information so that they can design a marketing strategy - together with advertising options, price ranges for different periods of the year, etc.&lt;/p&gt;
+&lt;p&gt;You were introduced to the director of the Marketing Department, Mary O'Connell, in a company meeting several weeks ago but she might not remember your name or your position in the company because there were many new employees present at the meeting. Write her an email and invite her to the product presentation briefing to be held in the company premises.&lt;/p&gt;
+&lt;h5&gt;In order to write and send your email, use the internal messaging system in this website. Your teacher will give you the name of the student who will act as Mary O'Connell and who will receive your message.&lt;/h5&gt;
+&lt;p&gt;You will find details about sending messages below:&lt;/p&gt;
+&lt;table border="0" cellpadding="5" align="center" style="width: 80%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Click your name on the website top toolbar and click "&lt;strong&gt;Messages&lt;/strong&gt;" (or click "&lt;strong&gt;Messages&lt;/strong&gt;" on the website sidebar, if it is activated).&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-01.png" width="165" height="281" alt="Messages link" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Click "&lt;strong&gt;Contacts&lt;/strong&gt;" &amp;gt; "&lt;strong&gt;Applied English&lt;/strong&gt;". You will see the list of students in this course.&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-02.png" width="258" height="145" alt="Message navigation" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Click the name of the student who will receive your message.&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-03.png" width="271" height="150" alt="Select user" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Write your message (do not forget to add a "&lt;strong&gt;Subject:&lt;/strong&gt; " line) and send it.&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-04.png" width="300" height="276" alt="Write the message" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1483566826</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,7 @@
+.modal-body{
+	position: relative;
+     overflow-y: scroll;
+     max-height: 400px;
+     margin-left: 10px;
+     padding-left: 30px;
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="42" moduleid="2059" modulename="resource" contextid="2258">
+  <resource id="42">
+    <name>Download this course</name>
+    <intro>&lt;p&gt;&lt;span&gt;You can download this course and import into your Moodle website.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>4</display>
+    <displayoptions>a:2:{s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1504732083</timemodified>
+  </resource>
+</activity>

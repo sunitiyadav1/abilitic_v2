@@ -1,0 +1,34 @@
+a:28:{s:10:"pluginname";s:12:"Contact Form";s:16:"privacy:metadata";s:72:"The Contact Form plugin does not store any personal data about any user.";s:10:"globalhelp";s:150:"Contact Form is a plugin for Moodle that allows your site to process information submitted through HTML web forms to the site's support email address.";s:9:"configure";s:21:"Configure this plugin";s:10:"field-name";s:4:"name";s:11:"field-email";s:5:"email";s:13:"field-subject";s:7:"subject";s:13:"field-message";s:7:"message";s:19:"confirmationmessage";s:81:"Thank you for contacting us. If required, we will be in touch with you very soon.";s:16:"confirmationsent";s:47:"An email has been sent to your address at {$a}.";s:9:"forbidden";s:9:"Forbidden";s:17:"errorsendingtitle";s:21:"Failed to send e-mail";s:12:"errorsending";s:68:"An error occurred while sending the message. Please try again later.";s:14:"defaultsubject";s:11:"New message";s:9:"extrainfo";s:380:"<hr>
+<p><strong>Additional User Information</strong></p>
+<ul>
+    <li><strong>Site user:</strong> [userstatus]</li>
+    <li><strong>Preferred language:</strong> [lang]</li>
+    <li><strong>From IP address:</strong> [userip]</li>
+    <li><strong>Web browser:</strong> [http_user_agent]</li>
+    <li><strong>Web Form:</strong> <a href="[http_referer]">[http_referer]</a></li>
+</ul>
+";s:17:"confirmationemail";s:208:"
+<p>Dear [fromname],</p>
+<p>Thank you for contacting us. If required, we will be in touch with you very soon.</p>
+<p>Regards,</p>
+<p>[supportname]<br>
+[sitefullname]<br>
+<a href="[siteurl]">[siteurl]</a></p>
+";s:9:"lockedout";s:10:"LOCKED OUT";s:12:"notconfirmed";s:13:"NOT CONFIRMED";s:14:"recipient_list";s:28:"List of available recipients";s:26:"recipient_list_description";s:997:"You can configure a list of potential recipients here, any of which can be used in a Contact Form to specify the email recipient using a hidden text field, or in a select dropdown list to allow users to select the recipient without divulging the recipient's actual email address. If the list is empty, emails will be sent to the Moodle email address, either the support email address or the primary Moodle administrator.
+Each line must consists of a unique text alias/label, a single email address and a name, each separated by pipe characters. For example:
+<pre>
+tech support|support@example.com|Joe Fixit
+webmaster|admin@example.com|Mr. Moodle
+electrical|nikola.tesla@example.com|Nikola
+history|charles.darwin@example.com|Mr. Darwin
+law|issac.newton@example.com|Isaac Newton
+math|galileo.galilei@example.com|Galileo
+english|mark.twain@example.com|Mark Twain
+physics|albert.einstein@example.com|Albert
+science|thomas.edison@example.com|Mr. Edison
+philosophy|aristotle@example.com|Aristotle
+</pre>";s:13:"loginrequired";s:14:"Login required";s:25:"loginrequired_description";s:98:"Only allow logged-in users to submit the Contact forms. Guests are not considered to be logged-in.";s:17:"nosubjectsitename";s:32:"Site name in email subject field";s:29:"nosubjectsitename_description";s:48:"Do not include site name in email subject field.";s:12:"recapchainfo";s:15:"Using ReCAPTCHA";s:24:"recapchainfo_description";s:321:"ReCAPTCHA is currently enabled in Moodle. You <strong>must</strong>:<br>
+<ul>
+  <li>Ensure that the {recaptcha} tag is included in all forms processed by Contact Form for Moodle.</li>
+  <li>Ensure that the <a href="https://moodle.org/plugins/filter_filtercodes">FilterCodes plugin</a> is installed and enabled.</li>
+</ul>";s:11:"norecaptcha";s:12:"No ReCAPTCHA";s:23:"norecaptcha_description";s:56:"Don't use ReCAPTCHA with forms procesed by Contact form.";}

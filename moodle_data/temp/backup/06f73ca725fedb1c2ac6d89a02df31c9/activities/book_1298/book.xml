@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="149" moduleid="1298" modulename="book" contextid="1367">
+  <book id="149">
+    <name>Project One</name>
+    <intro>&lt;p&gt;Are you ready to produce your first masterpiece for our not-so-famous toy company?&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/toitoi.png" width="207" height="138" alt="ToiToi" /&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>2</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1483449485</timecreated>
+    <timemodified>1483449485</timemodified>
+    <chapters>
+      <chapter id="1292">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Introduction</title>
+        <content>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/toitoi.png" width="150" height="100" style="float: right; margin: 5px;" /&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #ff00ff;"&gt;&lt;strong&gt;Toi&lt;/strong&gt;&lt;/span&gt;&lt;span style="color: #0000ff;"&gt;&lt;strong&gt;Toi&lt;/strong&gt;&lt;/span&gt; is a toy company. They have a design idea and they are looking for creative designers to submit projects. Read the project details.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/milk_PNG12746.png" width="250" height="323" style="vertical-align: middle;" alt="Milk" /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483455605</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1293">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Milk Carton That Topples</title>
+        <content>&lt;h3&gt;&lt;em&gt;&lt;span style="color: #800000;"&gt;Project Title&lt;/span&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 style="margin-left: 30px;"&gt;Milk Carton That Topples&lt;/h4&gt;
+&lt;h3&gt;&lt;em&gt;&lt;span style="color: #800000;"&gt;Duration&lt;/span&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 style="margin-left: 30px;"&gt;After the project has been approved, ready for marketing within 16 months; ready for production within 18 months&lt;/h4&gt;
+&lt;h3&gt;&lt;span style="color: #003366;"&gt;&lt;strong&gt;DETAILS&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;You will create a toy in the form of an ordinary milk cartoon. This milk carton will either hop or topple some time after it has been placed on a table or a similar flat surface. The aim is that the owner of this toy will surprise his/her friends.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/blank-milk.png" width="400" height="200" alt="Topple" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From outside, the milk carton will look completely ordinary. There will be no traces of a mechanism or anything else.&lt;/li&gt;
+&lt;li&gt;There will be no milk inside the milk carton. You can place whatever mechanism you design into it. However,
+&lt;ul&gt;
+&lt;li&gt;you cannot use any flammable or harmful material,&lt;/li&gt;
+&lt;li&gt;you cannot use any live animals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The mechanism should be designed in such a way that it can be used again and again.&lt;/li&gt;
+&lt;li&gt;Preferably, the mechanism should be designed in such a way that the child can assemble the mechanism on his/her own (therefore, the simpler the better), but this is not a requirement.&lt;/li&gt;
+&lt;li&gt;You can use an ordinary milk carton or you can use one which is made of, for example, plastic or a similar lightweight but strong material.&lt;/li&gt;
+&lt;li&gt;The total weight (milk carton + the mechanism) should not exceed the weight of a full milk carton.&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483458496</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1294">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Group Work</title>
+        <content>&lt;p&gt;You will design and build a prototype for this project in a group. After you design your project, you will (for the rest of this course):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;submit your project to &lt;strong&gt;&lt;span style="color: #ff00ff;"&gt;Toi&lt;/span&gt;&lt;span style="color: #0000ff;"&gt;Toi&lt;/span&gt;&lt;/strong&gt; by means of a formal&lt;strong&gt; proposal&lt;/strong&gt;; once your proposal has been accepted, you will&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;work in your group and finalise the details, make corrections and amendments on your initial project,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;send regular &lt;strong&gt;progress report&lt;/strong&gt;s to the company officials,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;complete the project and build a prototype,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;invite&lt;/strong&gt; company officials - especially the marketing department staff - to a meeting,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;promote your project within the institution by means of a &lt;strong&gt;poster&lt;/strong&gt; you will design,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;and give a group &lt;strong&gt;presentation&lt;/strong&gt;. &lt;/li&gt;
+&lt;/ol&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483652529</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="150" moduleid="1299" modulename="book" contextid="1368">
+  <book id="150">
+    <name>Project Two</name>
+    <intro>&lt;p&gt;Are you ready to produce your first masterpiece for our not-so-famous toy company?&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/toitoi.png" width="207" height="138" alt="ToiToi" /&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>2</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1483449485</timecreated>
+    <timemodified>1483465938</timemodified>
+    <chapters>
+      <chapter id="1295">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Introduction</title>
+        <content>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/toitoi.png" width="150" height="100" style="float: right; margin: 5px;" /&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #ff00ff;"&gt;&lt;strong&gt;Toi&lt;/strong&gt;&lt;/span&gt;&lt;span style="color: #0000ff;"&gt;&lt;strong&gt;Toi&lt;/strong&gt;&lt;/span&gt; is a toy company. They have a design idea and they are looking for creative designers to submit projects. Read the project details.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/flying-egg.jpg" width="450" height="312" alt="Flying Egg" style="vertical-align: middle;" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483467350</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1296">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Egg Drop</title>
+        <content>&lt;h3&gt;&lt;em&gt;&lt;span style="color: #800000;"&gt;Project Title&lt;/span&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 style="margin-left: 30px;"&gt;Egg Drop&lt;/h4&gt;
+&lt;h3&gt;&lt;em&gt;&lt;span style="color: #800000;"&gt;Duration&lt;/span&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 style="margin-left: 30px;"&gt;After the project has been approved, ready for marketing within 16 months; ready for production within 18 months&lt;/h4&gt;
+&lt;h3&gt;&lt;span style="color: #003366;"&gt;&lt;strong&gt;DETAILS&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;You will create a toy in the form of a "vehicle" which will protect a raw egg from breaking when the egg (together with the vehicle) is dropped from a height of minimum 7 metres. &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/604688.png" width="250" height="375" alt="Drop" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The total weight of the vehicle will not be more than 500 grams (egg not included).&lt;/li&gt;
+&lt;li&gt;There will be&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;no parachutes,&lt;/li&gt;
+&lt;li&gt;no balloons or any similar inflatable objects,&lt;/li&gt;
+&lt;li&gt;no cloth, paper or plastic cushions. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;There should be at least one moving part - such as a propeller, a moving tail, a rotating top/bottom - to make the toy attractive, as well as to aid the child in using his/her imagination to build similar or better mechanisms.&lt;/li&gt;
+&lt;li&gt;The mechanism should be designed in such a way that the child can assemble the mechanism on his/her own (therefore, the simpler the better).&lt;/li&gt;
+&lt;li&gt;You can use paper, wood, plastic and/or metal; the constructed vehicle should be strong enough so that
+&lt;ul&gt;
+&lt;li&gt;it can protect the egg from breaking and&lt;/li&gt;
+&lt;li&gt;it can remain intact and can be used again and again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Preferably, the vehicle should be easy to clean in case an egg should get broken.&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483469140</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1297">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Group Work</title>
+        <content>&lt;p&gt;You will design and build a prototype for this project in a group. After you design your project, you will (for the rest of this course):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;submit your project to &lt;strong&gt;&lt;span style="color: #ff00ff;"&gt;Toi&lt;/span&gt;&lt;span style="color: #0000ff;"&gt;Toi&lt;/span&gt;&lt;/strong&gt; by means of a formal&lt;strong&gt; proposal&lt;/strong&gt;; once your proposal has been accepted, you will&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;work in your group and finalise the details, make corrections and amendments on your initial project,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;send regular &lt;strong&gt;progress report&lt;/strong&gt;s to the company officials,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;complete the project and build a prototype,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;invite&lt;/strong&gt; company officials - especially the marketing department staff - to a meeting,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;promote your project within the institution by means of a &lt;strong&gt;poster&lt;/strong&gt; you will design,&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;and give a group &lt;strong&gt;presentation&lt;/strong&gt;. &lt;/li&gt;
+&lt;/ol&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483652383</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

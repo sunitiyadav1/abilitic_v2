@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="147" moduleid="1277" modulename="book" contextid="1346">
+  <book id="147">
+    <name>Notes to the teacher</name>
+    <intro>&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Things you should do&lt;/li&gt;
+&lt;li&gt;Feedback&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>2</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1483635078</timecreated>
+    <timemodified>1483635078</timemodified>
+    <chapters>
+      <chapter id="1273">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Introduction</title>
+        <content>&lt;p&gt;I originally designed the "Applied English for Science and Technology" course for Moodle for Clausthal University of Technology (TU Clausthal), Germany. You are free to modify it, make additions and/or deletions, and redesign it to suit your teaching purposes. My only request is that you should let me and all others that use this course material know about such modifications and corrections so that we can improve this material. &lt;/p&gt;
+&lt;p&gt;Dr. Hakan Gür&lt;br /&gt;English Lecturer&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1504731648</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1274">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Things you should do</title>
+        <content>&lt;p&gt;There are no step-by-step teaching plans for this course; you need to design your own teaching path around these activities. In this document, things to keep in mind are listed for each section of the course.&lt;/p&gt;
+&lt;p&gt;This course is best carried out when students bring their laptops to the classroom. Using a computer lab or a computer pool might also work but these places are not suitable for group work.&lt;/p&gt;
+&lt;p&gt;All the resources and activities in this course were created using Moodle's standard plugins; you might ask your web administrator to install "Grade Me" for better performance, but this is not a must.&lt;/p&gt;
+&lt;p&gt;You might consider adding the "Messages" block to the course page. This will be quite helpful in Section 9. Also, it might be a good idea to send students messages through Moodle's internal messaging system throughout the course so that they will have become accustomed to this system by the time you start Section 9.&lt;/p&gt;
+&lt;p&gt;This course will not work as it is if the Course Format is "Topics Format" with "Show one section per page" selected. This is because I eliminated topic titles and, therefore, there will be nothing to click! If you believe that you should stick to this format, edit each section title ("Edit topic") and either write down a "Section name" or tick "Use default section name (Topic 1)." &lt;/p&gt;
+&lt;p&gt;I suggest that you make &lt;em&gt;all sections&lt;/em&gt; except for the Introduction hidden. You can then make each section visible one by one, when the right time comes. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483642584</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1275">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 1</title>
+        <content>&lt;p&gt;I did not intentionally choose the two articles in this section. I came across both articles by means of a simple Google search. &lt;/p&gt;
+&lt;p&gt;Although there are more mistakes in both articles (definite and indefinite articles in Articles 1, and  "(2) Equation to predict the ..." on page 4 in Article, for example), I did not focus on them because this would take too much time. The aim here is to show students that we all make mistakes and that one way of preventing these mistakes should be staying alert at all times.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483635823</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1276">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 2 and 3</title>
+        <content>&lt;p&gt;Some of these exercises can be given as homework.&lt;/p&gt;
+&lt;p&gt;In some exercises here - and also in some other sections - there are "Essay" type questions. I suggest that you ask your web administrator to install "Grade Me" plugin for your Moodle website. When you activate the "Grade Me" block in this course, you will see the list of essays that need to be corrected.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483635995</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1277">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 4</title>
+        <content>&lt;p&gt;The aim here is that the students should get used to working and creating in groups. &lt;/p&gt;
+&lt;p&gt;It does not matter much if your students already know Muybridge's solution. They can still work in groups and discuss how to present it to the whole class.&lt;/p&gt;
+&lt;p&gt;At the end of each presentation, encourage other students to ask questions and tell whether they think the presented method will work. You also ask questions and try to focus on technical aspects. For example, many groups suggest that there should be a platform with a ball on it. When the ball rolls, it cuts strings that are attached to cameras. Here, some questions can be: "How about the speed of the ball? How will you make sure that the ball rolls at the same speed throughout the experiment? Will the string not cause the ball to slow down even a bit? How will you calculate this?" &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483646966</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1278">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 5</title>
+        <content>&lt;p&gt;This is the most important section of the course. Here, students will form groups and they will work in this group throughout the whole course. Also, you might ask them to choose a group representative. In some sections, documents for the whole group will be sent to you and this can be the task of this representative. &lt;/p&gt;
+&lt;p&gt;Make sure that there are at least two groups. The reason for this is that groups will also act as clients/observers/rivals.&lt;/p&gt;
+&lt;p&gt;When Groups A and B, for example, create Toy Number 1 (separately, of course), Groups C and D should evaluate the projects for Toy Number 1 and offer corrections, and vice versa.&lt;/p&gt;
+&lt;p&gt;Toy Number 2 - egg-drop project - is a very common one and there are many projects and videos available online. However, students should be aware that only an original toy will sell. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483638119</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1279">
+        <pagenum>7</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 6</title>
+        <content>&lt;p&gt;You &lt;span style="color: #ff0000;"&gt;&lt;strong&gt;must&lt;/strong&gt; &lt;/span&gt;edit the "Proposal Submission" activity. Under &lt;strong&gt;Availability&lt;/strong&gt;, set the dates. Otherwise, your students will not be able to submit their proposals.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483638037</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1280">
+        <pagenum>8</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 7</title>
+        <content>&lt;p&gt;Each member of the group will send a reply individually - each student might give different pieces of information and give different dates regarding the project, but this is not a problem at all.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483647105</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1281">
+        <pagenum>9</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 8</title>
+        <content>&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;Set dates&lt;/strong&gt;&lt;/span&gt; for the "Progress Report Submission" activity.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483638386</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1282">
+        <pagenum>10</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 9</title>
+        <content>&lt;p&gt;In this section, there are two options. You will see that the last two items in this section ("&lt;strong&gt;Invitation&lt;/strong&gt;" and "&lt;strong&gt;Response&lt;/strong&gt;") are hidden. Whether you use the first or the second option, &lt;span style="color: #ff0000;"&gt;&lt;strong&gt;it is vital that you pair students before they start writing emails&lt;/strong&gt;&lt;/span&gt;. That means that Student A will be the engineer and write the invitation email, and Student B will act as Mary O'Connell and receive the email. In the meantime, Student B will have written an invitation to email Student A. Then, they will send one another proper responses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OPTION 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can use the "Essay" option ("&lt;strong&gt;Invitation to product presentation&lt;/strong&gt;" and " &lt;strong&gt;Response to an invitation&lt;/strong&gt;") and ask students to write an invitation email. Here, you do not need to tell your students in advance that they will soon act as Mary O'Connell and write replies. When the invitation email is completed, you will need to read and evaluate the students' responses and - if you want - ask them to write down the same email by correcting their mistakes. Then, you should print each email and give them to relevant students, who will write a response email.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OPTION 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is obvious that this first option cannot be completed in one single session. Alternatively, you can use the second option. In that case, you will need to make "&lt;strong&gt;Invitation to product presentation&lt;/strong&gt;" and "&lt;strong&gt;Response to an invitation&lt;/strong&gt;" hidden and make "&lt;strong&gt;Invitation&lt;/strong&gt;" and "&lt;strong&gt;Response&lt;/strong&gt;" visible.&lt;/p&gt;
+&lt;p&gt;In option two, students use the online messaging system already available on your Moodle website. "&lt;strong&gt;Invitation&lt;/strong&gt;" and "&lt;strong&gt;Response&lt;/strong&gt;" are simple pages where students are told how to use the messaging system. To make things much easier, add the "Messages" block to the course page. In option two, students read one another's invitation and response email and, later on, they can discuss in pairs and correct their mistakes. As a teacher, you can see all the responses (Messages &amp;gt;  "Search people and messages" &amp;gt; Click "Advanced" &amp;gt; "Search messages" &amp;gt; Click "All messages from all users" and type a common word in the search box ("invite", "dear", even "a") and click "Search Messages"; you will see a list of all the messages in your course).&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483640269</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1283">
+        <pagenum>11</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 10</title>
+        <content>&lt;p&gt;Posters will be submitted through the "Database" activity. Here, you &lt;span style="color: #ff0000;"&gt;&lt;strong&gt;must&lt;/strong&gt; &lt;/span&gt;edit this activity and set dates; otherwise, students cannot submit their posters.&lt;/p&gt;
+&lt;p&gt;I left the "comment" option ON. Students can view posters from other groups and write comments and responses to comments.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483640479</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1284">
+        <pagenum>12</pagenum>
+        <subchapter>1</subchapter>
+        <title>Section 11</title>
+        <content>&lt;p&gt;There must be a time limit for each presentation. This will depend on the number of students in each group.&lt;/p&gt;
+&lt;p&gt;Ask each group to bring a prototype of their toy to the classroom. You can even hold a competition of "egg-drop" mechanisms (if your classroom is not on the seventh floor). It is highly likely that some of the "milk carton"s will not work. I saw a case where a milk carton literally &lt;em&gt;jumped&lt;/em&gt; to a height of almost a meter from the top of a desk and then hit a student on the head; therefore, make sure that students will not hurt themselves or others while displaying their prototypes. I will greatly appreciate it if you make a video recording of these experiments and send me a copy so that I can add them to the &lt;strong&gt;Sharing LMS&lt;/strong&gt; website.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483641246</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1285">
+        <pagenum>13</pagenum>
+        <subchapter>0</subchapter>
+        <title>Feedback</title>
+        <content>&lt;p&gt;As I have already mentioned in the &lt;em&gt;Introduction&lt;/em&gt;, any feedback is welcome. Please do not hesitate to share this course with your colleagues and send me your feedback.&lt;/p&gt;
+&lt;p&gt;Dr. Hakan Gür&lt;/p&gt;
+&lt;p&gt;English Lecturer&lt;/p&gt;
+&lt;p&gt;hakangur@yahoo.com&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1504731734</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

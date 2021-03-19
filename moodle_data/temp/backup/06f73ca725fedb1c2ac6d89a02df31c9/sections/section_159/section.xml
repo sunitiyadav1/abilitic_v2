@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="159">
+  <number>2</number>
+  <name>1</name>
+  <summary>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/section01.jpg" width="710" height="51" alt="Section 1" /&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>1278,1279,1280,1281,1282</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+</section>

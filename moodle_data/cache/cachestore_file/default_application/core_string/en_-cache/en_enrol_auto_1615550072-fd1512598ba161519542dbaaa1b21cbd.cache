@@ -1,0 +1,17 @@
+a:33:{s:20:"customwelcomemessage";s:22:"Custom welcome message";s:25:"customwelcomemessage_help";s:254:"A custom welcome message may be added as plain text or Moodle-auto format, including HTML tags and multi-lang tags.
+
+The following placeholders may be included in the message:
+
+* Course name {$a->coursename}
+* Link to user's profile page {$a->profileurl}";s:11:"defaultrole";s:23:"Default role assignment";s:16:"defaultrole_desc";s:68:"Select role which should be assigned to users during auto enrolment.";s:13:"editenrolment";s:14:"Edit enrolment";s:7:"enrolon";s:8:"Enrol on";s:12:"enrolon_help";s:336:"Choose the event that should trigger auto enrolment.
+
+**Course view** - Enrol a user upon course view.<br>
+
+**User login** - Enrol users as soon as they log in.<br>
+
+**Course activity/resource view** - Enrol a user when one of the selected activities/resources is viewed.<br>
+*NOTE:* this option requires a Guest access enrol instance. ";s:12:"enrolon_desc";s:43:"Event which will trigger an auto enrolment.";s:10:"courseview";s:11:"Course view";s:7:"modview";s:29:"Course activity/resource view";s:11:"modviewmods";s:20:"Activities/resources";s:16:"modviewmods_desc";s:80:"Viewing any of the selected resources/activities will trigger an auto enrolment.";s:10:"pluginname";s:14:"Auto enrolment";s:15:"pluginname_desc";s:88:"The auto enrolment plugin automatically enrols users upon course/activity/resource view.";s:16:"privacy:metadata";s:59:"The auto enrolment plugin does not store any personal data.";s:15:"requirepassword";s:21:"Require enrolment key";s:20:"requirepassword_desc";s:97:"Require enrolment key in new courses and prevent removing of enrolment key from existing courses.";s:4:"role";s:21:"Default assigned role";s:11:"auto:config";s:30:"Configure auto enrol instances";s:11:"auto:manage";s:21:"Manage enrolled users";s:12:"auto:unenrol";s:25:"Unenrol users from course";s:16:"auto:unenrolself";s:28:"Unenrol self from the course";s:24:"sendcoursewelcomemessage";s:27:"Send course welcome message";s:29:"sendcoursewelcomemessage_help";s:82:"If enabled, users receive a welcome message via email when they get auto enrolled.";s:6:"status";s:21:"Allow auto enrolments";s:11:"status_desc";s:54:"Allow auto enrolments of users into course by default.";s:11:"status_help";s:82:"This setting determines whether this auto enrol plugin is enabled for this course.";s:7:"unenrol";s:12:"Unenrol user";s:11:"unenroluser";s:70:"Do you really want to unenrol "{$a->user}" from course "{$a->course}"?";s:18:"unenrolselfconfirm";s:58:"Do you really want to unenrol yourself from course "{$a}"?";s:9:"userlogin";s:10:"User login";s:15:"welcometocourse";s:15:"Welcome to {$a}";s:19:"welcometocoursetext";s:151:"Welcome to {$a->coursename}!
+
+If you have not done so already, you should edit your profile page so that we can learn more about you:
+
+{$a->profileurl}";}

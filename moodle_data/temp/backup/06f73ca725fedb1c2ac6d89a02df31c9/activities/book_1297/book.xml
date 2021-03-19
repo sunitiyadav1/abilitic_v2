@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="148" moduleid="1297" modulename="book" contextid="1366">
+  <book id="148">
+    <name>Horse in Motion</name>
+    <intro>&lt;p&gt;&lt;span&gt;It may come as a surprise in the twenty-first century to discover that, in the 1880s, details of how objects move were unknown. The human eye, unaided, cannot resolve the details of fast motion. Eadweard Muybridge and his experiments with motion photography, such as this series of pictures of a horse's gait, helped solve this mystery.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: xx-small;"&gt;From http://www.hrc.utexas.edu/exhibitions/permanent/windows/southeast/eadweard_muybridge.html - edited&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>2</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1483395598</timecreated>
+    <timemodified>1483642900</timemodified>
+    <chapters>
+      <chapter id="1286">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Eadweard Muybridge</title>
+        <content>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;b&gt;&lt;img src="@@PLUGINFILE@@/Muybridge-2.jpg" width="250" height="364" alt="Muybridge" style="margin: 5px; float: right;" /&gt;Eadweard Muybridge&lt;/b&gt;&lt;/span&gt; (9 April 1830 – 8 May 1904, born &lt;b&gt;Edward James Muggeridge&lt;/b&gt;) was an English photographer important for his pioneering work in photographic studies of motion, and early work in motion-picture projection. &lt;/p&gt;
+&lt;p&gt;In the 1880s, Muybridge entered a very productive period at the University of Pennsylvania in Philadelphia, producing over 100,000 images of animals and humans in motion, capturing what the human eye could not distinguish as separate movements. He spent much of his later years giving public lectures and demonstrations of his photography and early motion picture sequences, travelling back to England and Europe to publicise his work. He also edited and published compilations of his work, which greatly influenced visual artists and the developing fields of scientific and industrial photography.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: xx-small;"&gt;From https://en.wikipedia.org/wiki/Eadweard_Muybridge - shortened&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483395969</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1287">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>A galloping horse</title>
+        <content>&lt;p&gt;His most famous work began in 1872, when he was hired by Leland Stanford (later the founder of Stanford University) to photograph horses. Stanford reputedly had made a bet that for a moment, all four of a racehorse's hooves are off the ground simultaneously, and he hired Muybridge to take the pictures to prove him right. This was difficult to do with the cameras of the time, and the initial experiments produced only indistinct images. The photographer then became distracted when he discovered that his young wife had taken a lover and may even have had their child by him. Muybridge tracked down the lover and shot and killed him. When Muybridge stood trial, he did not deny the killing, but he was nonetheless acquitted.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/330px-The_Horse_in_Motion.jpg" width="250" height="155" alt="The Horse in Motion" style="margin: 5px; float: right;" /&gt;Muybridge left San Francisco and spent two years in Guatemala. On his return, Muybridge resumed his photography of horses in motion, this time far more successfully. … The results settled the debate once and for all: all four hooves do leave the ground at once, as the top middle image in this sequence demonstrates.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: xx-small;"&gt;From http://www.hrc.utexas.edu/exhibitions/permanent/windows/southeast/eadweard_muybridge.html - edited and shortened&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/330px-The_Horse_in_Motion-anim.gif" width="330" height="223" alt="Animated" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483397216</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1288">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Task</title>
+        <content>&lt;table border="0" cellpadding="5" style="width: 95%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #ccffff;"&gt;
+&lt;h4&gt;Date&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #ccffff;"&gt;April 1878&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #33ffff;"&gt;
+&lt;h4&gt;Place&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #33ffff;"&gt;San Francisco&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #ccffff;"&gt;
+&lt;h4&gt;Task&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #ccffff;"&gt;To take 12 consecutive photos of a galloping horse and place them end-in-end in order to produce the effect of a motion picture. See below for details.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 25%;"&gt;
+&lt;h4 style="text-align: center;"&gt;&lt;span style="color: #800000;"&gt;&lt;em&gt;Tools&lt;/em&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="width: 30%;"&gt;&lt;/td&gt;
+&lt;td rowspan="6" valign="top" style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;p style="text-align: center;"&gt;One of our cameras              /               Two of our photographers&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/camera-on-tripod.jpg" width="450" height="262" alt="Camera and photographers" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 25%;"&gt;
+&lt;h4&gt;Cameras&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="width: 30%;"&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 25%;"&gt;
+&lt;h4&gt;Photographers&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="width: 30%;"&gt;12 (if required)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 25%;"&gt;
+&lt;h4&gt;Horse&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="width: 30%;"&gt;1 race horse&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 25%;"&gt;
+&lt;h4&gt;Rider&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="width: 30%;"&gt;1 jockey&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 25%;"&gt;
+&lt;h4&gt;Others&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td style="width: 30%;"&gt;Any other tool or material that might be necessary&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can do the experiment on a race track or on a field.&lt;/li&gt;
+&lt;li&gt;It is vital that the horse is not harmed - race horses are expensive!&lt;/li&gt;
+&lt;li&gt;In a group, make a detailed plan on your project. Take into consideration such points as:
+&lt;ul&gt;
+&lt;li&gt;How many days do you need to complete the project?&lt;/li&gt;
+&lt;li&gt;How much money do you expect to spend (remember that all the tools are free of charge)?&lt;/li&gt;
+&lt;li&gt;How many tests will you need to do before the final photo-shooting session?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Present your project to the whole class.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483448064</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1289">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Test your mobile phone</title>
+        <content>&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;TASK 1:&lt;/span&gt; &lt;/strong&gt;Use your mobile phone and take 12 consecutive photos of a classmate as s/he walks leisurely across the classroom. Do not use an app like Stop Motion Recorder or PicPac; use your own skill! Then, place these photos one after the other to see if you can manage to create a short motion picture of "A Student in Motion".&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/group-taking-photos.jpg" width="250" height="140" alt="Taking photos" style="margin: 5px; float: right;" /&gt;TASK 2:&lt;/strong&gt;&lt;/span&gt; Work as a group. For example, six or more students stand shoulder to shoulder and you walk leisurely before them. Depending on the number of photo-shooters, each person can take maximum two photos (without using an app). Before the photo-shooting session, decide how you will trigger the event and how each member will know when they should start and finish taking their photos. The end result should be the same as in Task 1. Tell other groups how you accomplished the task.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483446706</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1290">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Muybridge's solution</title>
+        <content>&lt;h1&gt;The Man Who Stopped Time&lt;/h1&gt;
+&lt;h4 class="magazineSubhead"&gt;Photographer Eadweard Muybridge stunned the world when he caught a horse in the act of flying.&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;By Mitchell Leslie&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;On a bright, balmy morning in June of 1878, a crowd of racing enthusiasts and newspapermen huddled beside the track on the Palo Alto Stock Farm, waiting to see a horse run. Leland Stanford had invited them to his estate and horse-training mecca to witness a photographic first.&lt;/p&gt;
+&lt;p&gt;The nation was swept up in a technological explosion. Americans swooned over inventions like the telephone and phonograph, while Edison prepared to unveil the lightbulb and Eastman set his sights on a handheld box camera. Having served his term as governor and launched a railroad empire, &lt;em&gt;Leland Stanford&lt;/em&gt; was savoring life as a country gentleman.&lt;/p&gt;
+&lt;p&gt;Horses were his passion. For him, the racetrack demonstration would culminate five years of experiments, undertaken with photographer Eadweard Muybridge, to clinch a pet theory about equine gait. Is a running horse ever completely aloft? Stanford insisted the answer was yes.&lt;/p&gt;
+&lt;p&gt;Stanford and Muybridge opened the day's spectacle by showing off their meticulous preparations. On one side of the track stood a whitewashed shed, with an opening at waist level across the front. Peeking out were a dozen bulky cameras, lined up like cannons in a galleon. On the opposite side, a sloping white backdrop had been raised to maximize contrast. The show began as one of Stanford's prize trotters, driven by master trainer Charles Marvin, sped down the track pulling a two-wheeled cart called a sulky. Across the horse's path were 12 wires, each connected to a different camera. When a sulky wheel rolled over one of the wires, it completed an electrical circuit, tripping the shutter of the attached camera. The shutters firing in quick succession sounded like a drumroll.&lt;/p&gt;
+&lt;p&gt;A single exposure could take minutes in those days, but the state-of-the-art cameras managed all 12 shots in less than half a second. Within 20 minutes, Muybridge had developed the plates and laid out the results for the visitors to admire. The series made a brief filmstrip of the horse's progress along the track--capturing, for the first time, ephemeral details the eye couldn't pick out at such speeds, such as the position of the legs and the angle of the tail. Stanford got the evidence he wanted, and the world got a stunning dissection of motion. "It was a brilliant success," one reporter wrote. "Even the threadlike tip of Mr. Marvin's whip was plainly seen in each negative, and the horse was exactly pictured."&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: xx-small;"&gt;https://alumni.stanford.edu/get/page/magazine/article/?article_id=39117&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;You can find a very detailed graphic description on the next page.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483446971</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1291">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Graphic description</title>
+        <content>&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/graphic.jpg" width="545" height="713" alt="Solution" style="vertical-align: middle;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: xx-small;"&gt;https://alumni.stanford.edu/get/page/magazine/article/?article_id=39117&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1483447576</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

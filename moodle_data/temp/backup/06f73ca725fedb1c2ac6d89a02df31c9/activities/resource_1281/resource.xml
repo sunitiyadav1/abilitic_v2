@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="20" moduleid="1281" modulename="resource" contextid="1350">
+  <resource id="20">
+    <name>Article 2</name>
+    <intro>&lt;ul&gt;
+&lt;li&gt;"Use of decision science in mechanical engineering design", Driegel, G. S., &lt;em&gt;Journal of Applied Science and Engineering Technology&lt;/em&gt;,  pp. 1-7, Miami University, 2008.&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>2</revision>
+    <timemodified>1483297057</timemodified>
+  </resource>
+</activity>

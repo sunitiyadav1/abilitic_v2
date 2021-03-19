@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="21" moduleid="1295" modulename="resource" contextid="1364">
+  <resource id="21">
+    <name>Logical fallacies</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1483390474</timemodified>
+  </resource>
+</activity>

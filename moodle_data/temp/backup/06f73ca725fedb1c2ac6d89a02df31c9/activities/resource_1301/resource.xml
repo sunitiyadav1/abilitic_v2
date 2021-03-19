@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="22" moduleid="1301" modulename="resource" contextid="1370">
+  <resource id="22">
+    <name>Format for Proposals</name>
+    <intro>&lt;p&gt;Title Page&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Statement of the Problem&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;Objectives&lt;/p&gt;
+&lt;p style="margin-left: 90px;"&gt;Plan of Action&lt;/p&gt;
+&lt;p style="margin-left: 120px;"&gt;Management Plan&lt;/p&gt;
+&lt;p style="margin-left: 150px;"&gt;References&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:0;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1483471568</timemodified>
+  </resource>
+</activity>

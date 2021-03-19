@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="29" moduleid="1316" modulename="resource" contextid="1385">
+  <resource id="29">
+    <name>Sample Poster - 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:3:{s:10:"printintro";i:1;s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1483569804</timemodified>
+  </resource>
+</activity>

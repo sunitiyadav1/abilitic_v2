@@ -1,0 +1,101 @@
+	/*body{
+		background-color: #000000;
+	}*/
+	
+	.my_dataviz {
+	    border: 1px solid #000;
+	}
+	
+	.my_dataviz2 {
+	    border: 1px solid #000;
+	}
+	
+	.tooltip {
+	    position: absolute;
+	    border-collapse: collapse;
+	    border-spacing: 0;
+	    background-color: #000;
+	    empty-cells: show;
+	    -webkit-box-shadow: 7px 7px 12px -9px rgb(119, 119, 119);
+	    -moz-box-shadow: 7px 7px 12px -9px rgb(119, 119, 119);
+	    box-shadow: 7px 7px 12px -9px rgb(119, 119, 119);
+	    opacity: 0.95;
+	    border-radius: 4px 4px 4px 4px;
+	    font-family: 'Verdana';
+	    color: #FFF;
+	}
+	
+	.tooltip .dataTitle {
+	    padding: 2px 4px;
+	    text-align: left;
+	    vertical-align: middle;
+	    border-bottom: 1px #FFF dotted;
+	}
+	
+	.tooltip .dataPercentage {
+	    padding: 2px 4px;
+	    color: #FFF;
+	    text-align: center;
+	    font-family: 'Verdana';
+	    font-size: 2em;
+	    border-bottom: 1px #FFF dotted;
+	    border-right: 1px #AAA dotted;
+	    width: 50%;
+	}
+	
+	.tooltip .dataValue {
+	    padding: 2px 4px;
+	    text-align: center;
+	    font-family: 'Verdana';
+	    ;
+	    font-size: 2em;
+	    border-bottom: 1px #FFF dotted;
+	}
+	
+	.tooltip .additionalData {
+	    font-size: 0.65em;
+	}
+	
+	.additionalData>table {
+	    width: 100%;
+	}
+	
+	.addDataKey {
+	    border-bottom: 1px #AAA dotted;
+	}
+	
+	.addDataValue {
+	    border-bottom: 1px #AAA dotted;
+	}
+	
+	.tooltip .additionalData .addDataKey {
+	    font-style: italic;
+	}
+	
+	.tooltip .additionalData .addDataValue {
+	    font-style: italic;
+	    text-align: right;
+	    font-weight: bold;
+	}
+	
+	.tooltip>table {
+	    width: 100%;
+	}
+	
+	.tooltip .dataColorIndicator {
+	    width: 20px;
+	    border: 2px white solid;
+	    vertical-align: middle;
+	}
+	
+	.tooltip .dataColorIndicator:after {
+	    content: "";
+	    display: block;
+	    padding-bottom: 100%;
+	}
+	
+	.chartTitle {
+	    font-family: "Verdana";
+	    text-align: left;
+	    vertical-align: middle;
+	}

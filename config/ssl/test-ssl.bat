@@ -1,0 +1,1 @@
+docker run -v "D:\HemantProjects\KPI Soft\SDG LMS\sdg-web-lms\config\ssl\star_zinghr_com.crt":/certs/cert.pem -v "D:\HemantProjects\KPI Soft\SDG LMS\sdg-web-lms\config\ssl\star_zinghr_comdecrypted.key":/certs/key.pem -v "D:\HemantProjects\KPI Soft\SDG LMS\sdg-web-lms\config\ssl\star_zinghr_com_chain.pem":/certs/cacerts.pem superseb/cert-check:latest www.zinghr.com

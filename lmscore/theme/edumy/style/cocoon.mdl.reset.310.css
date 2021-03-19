@@ -1,0 +1,32 @@
+.usermenu:focus-within, div.dropdown-item:focus-within {
+  box-shadow: none;
+}
+#page-my-index {
+  background-color: #f9fafc;
+}
+.btn.dropdown-toggle::after {
+  position: relative;
+  top: -3px;
+}
+.dropdown.dropup .btn.dropdown-toggle::after {
+  position: relative;
+  top: 1px;
+}
+#ccnSettingsMenu .dropdown-item:active,
+#ccnSettingsMenu .dropdown-item:hover,
+#ccnSettingsMenu .dropdown-item:focus,
+#ccnSettingsMenu .dropdown-item:focus-within {
+  background: [[setting:color_primary]];
+  color: #fff;
+}
+#ccnSettingsMenu .dropdown-item:hover a {
+  color: #fff;
+}
+.simplesearchform input {
+  border-radius: 5px!important;
+}
+.simplesearchform .form-inline .input-group-append .btn {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 4px;
+}

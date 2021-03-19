@@ -1,0 +1,50 @@
+{{=<% %>=}}
+<style>
+.progbar{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;  
+    background-color: #f1f1f1;
+}
+.progbar-outer{
+    border: 1px solid lightgrey;
+    background-color:#66A2E4;
+}
+.progbar-inner{
+
+}
+.small{
+    font-size:9px;
+    text-align:left;
+}
+</style>
+<div>
+    <ion-list>
+   
+        <%#team%>
+            <ion-item>
+                <p class="item-heading">
+               <img src="<%userPic%>" width="30" height="30">
+               <%firstName%> <%lastName%>  [<%completionPercentage%>%]               
+               </p>
+                
+                <div class="progbar"  tooltip="<%courseName%>">
+                <p>
+                &nbsp;&nbsp;
+                <span style="background-color:#66A2E4;width:30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;Not Completed: <%incompletionPercentage%>
+                &nbsp;&nbsp;
+                <span style="background-color:#E08B94;width:30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;Completed: <%completionPercentage%>
+                </p><BR>
+                        <div class="progbar-outer" tooltip="not completed">
+                            <div class="w3-grey" style="height:10px;width:<%completionPercentage%>%;background-color:#E08B94;" tooltip="completed"></div>
+                        </div>   
+                    <span class="small"><%completionPercentage%>% Completed</span>
+                </div>
+              <!--  <span>
+               <core-chart type="doughnut" [data]="[<%incompletionPercentage%>,<%completionPercentage%>]" 
+                [labels]="['<%#str%> notcompleted, block_progress <%/str%>', '<%#str%> completed, block_progress <%/str%>']" 
+                height="100" tooltip="<%firstName%>"></core-chart>
+                </span>  -->
+            </ion-item>
+      <%/team%>
+    </ion-list>
+</div>

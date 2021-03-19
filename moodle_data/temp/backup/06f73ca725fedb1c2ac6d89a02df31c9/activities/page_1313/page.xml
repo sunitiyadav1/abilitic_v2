@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="1313" modulename="page" contextid="1382">
+  <page id="14">
+    <name>Response</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;You are Mary O'Connell, Director of the Marketing Department of ToiToi Company. You have only just received an email about an invitation to a briefing about a new product.&lt;/p&gt;
+&lt;h5&gt;Write and send your reply.&lt;/h5&gt;
+&lt;p&gt;You will find details about reading your messages and sending responses below:&lt;/p&gt;
+&lt;table border="0" cellpadding="5" align="center" style="width: 80%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Click your name on the website top toolbar and click "&lt;strong&gt;Messages&lt;/strong&gt;" (or click the message sign on the &lt;strong&gt;Messages&lt;/strong&gt; block on the website sidebar, if it is activated; when you use this option, you can directly start typing your response).&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-01.png" width="165" height="281" alt="Messages link" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;If the Messages block is not available, click "&lt;strong&gt;Contacts&lt;/strong&gt;" &amp;gt; "&lt;strong&gt;Applied English&lt;/strong&gt;". You will see the list of students in this course.&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-02.png" width="258" height="145" alt="Message navigation" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Click the name of the student who sent you the message (your teacher will have told you the name).&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/messaging-03b.png" width="271" height="148" alt="Select user" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Write your reply (do not forget to add a "&lt;strong&gt;Subject:&lt;/strong&gt; " line) and send it.&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1483567690</timemodified>
+  </page>
+</activity>

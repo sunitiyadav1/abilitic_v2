@@ -1,0 +1,20 @@
+version: '3'
+services:
+  web:
+    image: sdg-lms:latest
+    container_name: sdg-lms
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      - wwwroot=http://localhost/abilitic/lmscore
+      - dataroot=/var/www/moodledata_LMS_2_0
+      - DEBUG=true
+      - DB_HOST=172.16.15.5
+      - DB_DATABASE=sun_abilitic
+      - DB_USERNAME=zingHr
+      - DB_PASSWORD=Power@004
+      - DB_PORT=3306
+    volumes:
+      - .:/home/application/
+    restart: unless-stopped

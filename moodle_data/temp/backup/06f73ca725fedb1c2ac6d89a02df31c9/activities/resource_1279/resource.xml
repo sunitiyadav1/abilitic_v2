@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="19" moduleid="1279" modulename="resource" contextid="1348">
+  <resource id="19">
+    <name>Article 1</name>
+    <intro>&lt;ul&gt;
+&lt;li&gt;"An Energy-Balancing Unequal Clustering Protocol for Wireless Sensor Networks", J. Yang and D, Zhang, &lt;em&gt;Information Technology Journal&lt;/em&gt; 8 (1): 57-63,2009&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1483296697</timemodified>
+  </resource>
+</activity>

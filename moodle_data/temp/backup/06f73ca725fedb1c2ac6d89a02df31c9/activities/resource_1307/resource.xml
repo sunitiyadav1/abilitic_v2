@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="25" moduleid="1307" modulename="resource" contextid="1376">
+  <resource id="25">
+    <name>Sample Progress Report</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:3:{s:10:"printintro";i:1;s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1483554475</timemodified>
+  </resource>
+</activity>

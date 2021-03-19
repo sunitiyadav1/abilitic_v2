@@ -1,0 +1,63 @@
+Web/Mobile Notifications template plugin for Moodle > 2.X
+-------------------------------------------------------
+@author : Kajal Tailor
+
+@description ::
+      - It is plugin designed for Manually sending Notification(Web, Mobile,Moodle) to specific
+      group of People(Cohorts) or to an individual User of the System.  
+      - On Manual Notifications page, when you click on Send Notification Button, it will be stored all the entered data in 
+      the Database Table. Once, the Database Table filled with respective entries of all the Users.  
+      - This plugin also set the Cron / Scheduled Task for running the Notification send api to all user and actually
+      send the Notification on Mobile, web or Moodle.     
+
+     Manual Notification Form-
+         In this Form, Admin user will be enetering all details for Notification like Title, message, Frequency, Cohort or User Selection,
+         Notification Type and scheduled Date..Once all the data filled,  It will be Saved into the Push notification Log table in the backend Database and
+         give the Success Message to User.
+
+    Notification Report Page - 
+        This Notification Report Page  give all the Notification List, sent by system group by the common Reference Number given by the system.
+    
+    Send Notification (Scheduled / Cron Task)
+         This Function is set for the Scheduled / Cron Task, Which is dynamically run on the Server every 15 mins and check for unsent notification to be sent,
+         it will check in the database table for any unsent notificatiion, try sending it on mobile or web or email etc.  if It successfully then set the 
+         Status accordingly and tried count will be set accordingly.
+
+To test:
+1- install the plugin in moodle/local/notifications/
+Manual notification form page - https://learn.zinghr.com/bma_uat/local/notifications/index.php
+Notification Report Page - https://learn.zinghr.com/bma_uat/local/notifications/notification_report.php
+
+Cron function to execute the functionality - lib.php -  local_notifications_send()
+External Api for mobile generated to exeternallib.php -- local_notifications_save_notification()
+Also when the plugin installed, it will automatically update database with three tables named as 
+-- mdl_push_notification
+-- mdl_push_notification_log
+-- mdl_notification_type
+=========================================================================================================
+Steps to install the Plugin 
+============================
+1) take the notification folder from the local folder in LMS and  zip the file - notification.zip
+2) now on whichever instance you want to install this plugin, go to that instance site administration> install plugin section.
+3) On Install Plugin Page, upload your notification.zip file in the file Browser. once it is uploaded, loader stops and file name shows in the file area 
+4) on click on "Install plugin using zip file" button
+5) On clicking button, it will first unzip the files on to local folder of the instance
+6) then it will show the plugin to be installed on the Screen by upgrading moodle Database button
+7) once it gets installed, it will show Success on the Screen, from there we can click on continue to return to our Dashboard notification Page
+
+If you want to access your Manual Notification Link from the Dashboard, you have to add HTML Block to the dashboard 
+and add the following link to that Block.
+Manual Notification  => http://localhost/abilitic/lmscore/local/notifications/index.php
+=========================================================================================================
+Other Features:
+---------------
+If you are Siteadmin Or having Manager Role then only you can access this link otherwise, it will show you error Message as 
+"You don't have capability to access this feature"
+
+This Plugin will give you one Capability named as "local/notifications:manage" . 
+If you assign this capability to any Role in the instance then that Role user can access that pages
+
+This plugin also provide webservice api named as "local_notifications_save_notification"
+you can check the description of parameters in moodle site administration > plugins > webservices > API Documentation
+
+You can also Set Moodle inbuilt Cron Job using services using setting Parameters on tasks.php

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="24" moduleid="1306" modulename="resource" contextid="1375">
+  <resource id="24">
+    <name>Progress Report</name>
+    <intro>&lt;p&gt;Background on the project itself.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Discussion of achievements since last reporting.&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;Discussion of problems that have arisen.&lt;/p&gt;
+&lt;p style="margin-left: 90px;"&gt;Discussion of work that lies ahead. &lt;/p&gt;
+&lt;p style="margin-left: 120px;"&gt;Assessment of whether you will meet the objectives in the proposed schedule and budget.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:3:{s:10:"printintro";i:1;s:8:"showsize";i:1;s:8:"showtype";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>2</revision>
+    <timemodified>1483652915</timemodified>
+  </resource>
+</activity>

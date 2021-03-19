@@ -1,0 +1,80 @@
+.ZILTsessiongroup {
+    padding-bottom: 10px;
+}
+.ZILTsession {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+.ZILTsession:last-child {
+    border-bottom: none;
+}
+.ZILTsessiontime {
+    width: 80%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+}
+.ZILTinprogress .ZILTsessiontime {
+    width: 100%;
+}
+.ZILToptions {
+    width: 20%;
+    display: inline-block;
+    min-width: 60px;
+}
+.ZILTsessionlinks,
+.ZILTsessionnotice {
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 14px;
+    display: block;
+    padding: 3px;
+}
+.ZILTactivityname {
+    line-height: 1.5;
+}
+
+body.path-mod-zingilt table.ZILTsession td.c0 {
+    font-weight: bold;
+    width: 12%;
+}
+body.path-mod-zingilt table.ZILTsession {
+    width: 100%;
+}
+table.table90 {
+    width: 90%;
+}
+table.table50 {
+    width: 50%;
+    text-align: left;
+}
+table.inlinetable {
+    display: inline-table;
+    border: 0;
+}
+tr.highlight td.cell {
+    background-color: #afa;
+}
+a.ZILTsessionlinks,
+td.ZILTsessionnotice,
+span.ZILTsessionnotice {
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 14px;
+}
+span.ZILTonepointfive {
+    line-height: 1.5;
+}
+span.errorstring {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+body#page-mod-zingilt-view div#page-content table.sessions {
+    width: 100%;
+}
+
+body#page-mod-zingilt-view div#page-content .formlocation {
+    float: right;
+    margin-bottom: 6px;
+}
